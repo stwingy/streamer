@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "asda",
+      "description": "hillards",
+      "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "Some Interesting information",
+      "id": 2
+    },
+    {
+      "title": "zzz",
+      "description": "zzz",
+      "id": 3
+    },
+    {
+      "title": "ANOTHER ONE",
+      "description": "testing if the id shows up",
+      "userId": {
+        "isSignedIn": true,
+        "userId": "117478043506161282903"
+      },
+      "id": 4
+    },
+    {
+      "title": "confuscious",
+      "description": "some witty comment to add here",
+      "id": 7
+    },
+    {
+      "title": "basttard",
+      "description": "bastert",
+      "userId": "117478043506161282903",
+      "id": 8
+    }
+  ]
+}
